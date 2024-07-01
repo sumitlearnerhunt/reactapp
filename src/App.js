@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Sumittt Rawat the great
+          Learn React Sumittt Rawat the great the legend
         </a>
       </header>
     </div>
